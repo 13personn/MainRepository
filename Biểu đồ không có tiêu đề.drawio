@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T08:19:32.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="YIYlmzyUVnRu3IenTgrY" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T08:20:39.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ULZkAi2tlWZj6WXOn5s0" version="22.1.18" type="github">
   <diagram name="Trang-1" id="MkIcYdTay602i6nCO75-">
     <mxGraphModel dx="936" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,19 @@
         <mxCell id="ZGcf4tEGVXGTPQasSlIy-4" value="UserRegister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="230" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pPiAB93G1IH2UzEMy6cQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGcf4tEGVXGTPQasSlIy-8" target="ZGcf4tEGVXGTPQasSlIy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGcf4tEGVXGTPQasSlIy-8" value="AboutUs" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pPiAB93G1IH2UzEMy6cQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZGcf4tEGVXGTPQasSlIy-10" target="ZGcf4tEGVXGTPQasSlIy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="60" />
+              <mxPoint x="250" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZGcf4tEGVXGTPQasSlIy-10" value="ContactUs" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="414" y="90" width="80" height="80" as="geometry" />
