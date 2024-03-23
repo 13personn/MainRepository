@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T07:20:20.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="636Xj3kmvFyMgGJB2cTS" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T07:20:58.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="e9PIaKtQ5pFvtJLN_CBZ" version="24.0.8" type="github">
   <diagram name="Trang-1" id="DwMynhKnTojVxTFCjsAo">
-    <mxGraphModel dx="713" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,9 +193,6 @@
           <mxGeometry x="740" y="200" width="70" height="75" as="geometry" />
         </mxCell>
         <mxCell id="rk8uSaijc1zRN3GsCyd2-87" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry y="15" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rk8uSaijc1zRN3GsCyd2-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry y="45" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rk8uSaijc1zRN3GsCyd2-89" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -211,9 +208,6 @@
           <mxGeometry y="175" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rk8uSaijc1zRN3GsCyd2-98" value="Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rk8uSaijc1zRN3GsCyd2-99" value="Supporter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rk8uSaijc1zRN3GsCyd2-100" value="Job seeker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
